@@ -7,3 +7,11 @@
 *.iml linguist-detectable=false
 *.yaml linguist-detectable=false
 
+android/** linguist-documentation
+asets/** linguist-documentation
+ios/** linguist-documentation
+linux/** linguist-documentation
+macos/** linguist-documentation
+test/** linguist-documentation
+web/** linguist-documentation
+windows/** linguist-documentation
