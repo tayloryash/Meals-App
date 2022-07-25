@@ -3,3 +3,7 @@
 *.toc linguist-detectable=false
 *.tex linguist-detectable=false
 *.cpp linguist-detectable=false
+*.lock linguist-detectable=false
+*.iml linguist-detectable=false
+*.yaml linguist-detectable=false
+
