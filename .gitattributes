@@ -2,3 +2,4 @@
 *.html linguist-detectable=false
 *.toc linguist-detectable=false
 *.tex linguist-detectable=false
+*.cpp linguist-detectable=false
